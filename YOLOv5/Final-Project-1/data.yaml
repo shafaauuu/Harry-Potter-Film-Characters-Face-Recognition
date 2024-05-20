@@ -1,0 +1,31 @@
+names:
+- Albus Dumbledore
+- Bellatrix Lestrang
+- Cedric Diggory
+- Dobby
+- Dolores Umbridge
+- Draco Malfoy
+- Ginny Weasley
+- Harry Potter
+- Hermione Granger
+- Luna Lovegood
+- Minerva McGonagall
+- Neville Longbottom
+- Nymphadora Tonks
+- Remus Lupin
+- Ronald Weasley
+- Rubeus Hagrid
+- Severus Snape
+- Sirius Black
+- Sybill Trelawney
+- Voldemort
+nc: 20
+roboflow:
+  license: CC BY 4.0
+  project: final-project-glutw
+  url: https://universe.roboflow.com/image-processing-paf2z/final-project-glutw/dataset/1
+  version: 1
+  workspace: image-processing-paf2z
+test: ../test/images
+train: Final-Project-1/train/images
+val: Final-Project-1/valid/images
